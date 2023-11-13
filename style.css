@@ -216,6 +216,18 @@ nav ul li a:hover::after{
     grid-gap: 40px;
     margin-top: 50px;
 }
+.work-list-5{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr ));
+    grid-gap: 40px;
+    margin-top: 50px;
+}
+.work-list-6{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr ));
+    grid-gap: 40px;
+    margin-top: 50px;
+}
 .work{
     border-radius: 10px;
     position: relative;
